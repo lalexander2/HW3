@@ -2,7 +2,7 @@ name = input("What is your name?")
 if name == "Raenita":
     age = int(input("How old are you?"))
     if age >= 50:
-        print("I see you, 30 years from now, living a happy life with your children and grandchildren. You will live to be 107 years old.")
+        print("I see you, 30 years from now, living a happy life with your children and grandchildren. You will live to be very old.")
     elif age >= 30:
         print("Though your journey through life so far has been great, there is much more to come. Your full potential has not yet been realized.")
     else:
