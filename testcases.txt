@@ -1,1 +1,17 @@
 Testcases for Raenita.py
+
+1. Description: Raenita at least 50 years old
+Inputs: Name: Raenita; Age: 50
+Output: "I see you, 30 years from now, living a happy life with your children and grandchildren. You will live to be very old."
+
+2. Description: Raenita at least 30 and below 50 years old
+Inputs: Name: Raenita; Age: 30
+Output: "Though your journey through life so far has been great, there is much more to come. Your full potential has not yet been realized."
+
+3. Description: Raenita below 30 years old
+Inputs: Name: Raenita; Age: 20
+Output: "Your life has not yet begun. You are going to invent something that will change the world for many people."
+
+4. Description: Not named Raenita
+Inputs: Name: John; Age: N/A
+Output: "Your fortune is dark. You will lose all that you are carrying when you next leave your house."
